@@ -3,8 +3,8 @@
 	"description": "VSCode extension for JavaComp, a language server for Java",
 	"author": "Caibin Chen",
 	"license": "MIT",
-	"version": "1.0.0",
-	"publisher": "Caibin Chen",
+	"version": "1.0.1",
+	"publisher": "tigersoldier",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tigersoldier/javacomp-vscode"

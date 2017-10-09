@@ -1,14 +1,16 @@
 # Visual Studio Code extension for [JavaComp][javacomp]
 
-[javacomp]: https://github.com/tigersoldier/JavaComp
-
 ## Installation
 
-TODO
+This extension is available on Visual Studio Marketplace. You can search
+`javacomp-vscode` in Visual Studio Code to find it.
+
+Make sure you have Java 8 or above installed.
 
 ## Customization
 
-TODO
+To customize the behavior of JavaComp for your project, see the documentation on
+[customizing JavaComp][javacomp-customization].
 
 ## Debugging
 
@@ -18,3 +20,6 @@ Code, then click Start Debugging from the Debug menu.
 To update the JavaComp jar file, rename it as JavaComp.jar and copy it to the
 `jar` directory. Consult the README file of [JavaComp][javacomp] for how to
 build a new jar.
+
+[javacomp]: https://github.com/tigersoldier/JavaComp
+[javacomp-customization]: https://github.com/tigersoldier/JavaComp#customization

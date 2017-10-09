@@ -35,9 +35,6 @@ export function activate(context: ExtensionContext) {
             // Notify the server about file changes to '*.java files contain in the workspace
             fileEvents: workspace.createFileSystemWatcher('**/*.java'),
         },
-        initializationOptions: {
-            logLevel: 'fine',
-        },
     }
 
     // Create the language client and start the client.
