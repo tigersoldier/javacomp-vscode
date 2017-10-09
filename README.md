@@ -21,5 +21,11 @@ To update the JavaComp jar file, rename it as JavaComp.jar and copy it to the
 `jar` directory. Consult the README file of [JavaComp][javacomp] for how to
 build a new jar.
 
+## Credits
+
+This extention was initially derived from the [lsp-samples client of
+vscode-extension-samples][lsp-samples].
+
 [javacomp]: https://github.com/tigersoldier/JavaComp
 [javacomp-customization]: https://github.com/tigersoldier/JavaComp#customization
+[lsp-samples]: https://github.com/Microsoft/vscode-extension-samples/tree/master/lsp-sample/client
