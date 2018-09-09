@@ -10,7 +10,7 @@
 		"url": "https://github.com/tigersoldier/javacomp-vscode"
 	},
 	"engines": {
-		"vscode": "^1.16.0"
+		"vscode": "^1.25.0"
 	},
 	"categories": [
 		"Other"
@@ -52,11 +52,11 @@
 		"postinstall": "node ./node_modules/vscode/bin/install"
 	},
 	"dependencies": {
-		"vscode": "^1.1.5",
-		"vscode-languageclient": "^3.4.2"
+		"vscode": "^1.1.21",
+		"vscode-languageclient": "^5"
 	},
 	"devDependencies": {
-		"@types/node": "^6.0.88",
-		"typescript": "^2.5.2"
+		"@types/node": "^6.0.117",
+		"typescript": "^2.9.2"
 	}
 }
